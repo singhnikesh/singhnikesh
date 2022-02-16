@@ -5,7 +5,7 @@
 My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, currently working at RHA Technology. 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nikesh+Sharma,;+A+full+stack+MEAN+developer.;I+have+7++years+of+experience;+and+proven+knowledge+of+web+skills;Aiming+to+leverage+my+skills+to;+successfully+fill+the+Senior+role;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nikesh+Sharma;+A+full+stack+MEAN+developer.;I+have+7++years+of+experience;+and+proven+knowledge+of+web+skills;Aiming+to+leverage+my+skills+to;+successfully+fill+the+Senior+role;)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikesh-sharma/)
 

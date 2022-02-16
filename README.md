@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.linkedin.com/in/nikesh-sharma/)
 
-[My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, currently working at RHA Technology. ]
+My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, currently working at RHA Technology. 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikesh-sharma/)
 
 

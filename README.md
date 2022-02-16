@@ -28,3 +28,4 @@ My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhnikesh&show_icons=true&theme=tokyonight" />
 <!--<img align="center" src="https://github-readme-stats.herokuapp.com/?user=singhnikesh&theme=tokyonight" />-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnikesh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />

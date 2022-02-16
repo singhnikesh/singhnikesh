@@ -26,4 +26,4 @@ My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, 
 .....
 </details>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<singhnikesh>&theme=<THEME_NAME>" />

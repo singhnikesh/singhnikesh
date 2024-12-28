@@ -2,7 +2,7 @@
 
 
 
-My name is Nikesh and I'm a software developer/DevOps engineer. I'm form India, currently working at AppInventiv. 
+My name is Nikesh a highly skilled and experienced Full Stack Developer with over 9 years of expertise in .NET, Angular, React, JavaScript, SQL, Azure, MVC, and ASP.NET. Proficient in developing robust and scalable applications, leveraging cutting-edge technologies and industry best practices, currently working at AppInventiv. 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nikesh+Sharma;+A+highly+skilled+and+experienced+Full+Stack+Developer;+I+have+over+10+years+of+expertise;+Proficient+in+React,+.NET,+Azure,+and+more.;Aiming+to+drive+innovation+and+deliver+impactful+solutions.)] 
